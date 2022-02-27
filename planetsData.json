@@ -1,0 +1,230 @@
+{
+    "planets": [
+        {
+            "id":0,
+            "name":["عطارد","Mercury"],
+            "describtion":["عطارد هو أصغر كواكب المجموعة الشمسية و أقربهم الي الشمس",
+                "Mercury is the smallest planet in the Solar System and the closest to the Sun!"],
+            "img":"./imgs/mercuryعطارد.png",
+            "bgimg":"./imgs/bgmercuryعطارد.png",
+            "info":[
+                {
+                    "id":0,
+                    "text":["كوكب عطارد هو الكوكب الأسرع في الدوران حول الشمس لأنه يسلك المدار الأصغر بين الكواكب",
+                        "Mercury is the fastest revolving planet around the sun because it has the smallest orbit of the planets."]
+                },
+                {
+                    "id":1,
+                    "text":["يشكل الحديد أكثر عنصر تكويناً لكوكب عطارد",
+                    "Mercury is mainly made of iron."]
+                },
+                {
+                    "id":2,
+                    "text":["كل يوم على عطارد يساوي 59 يوماً على الأرض",
+                        "Every day on Mercury equals about 59 days on Earth."]
+                }
+            ]
+        },
+        {
+            "id":1,
+            "name":["الزهرة","Venus"],
+            "describtion":["كوكب الزهرة هو الكوكب الثاني من الشمس وأقرب الكواكب المجاورة للأرض",
+                "Venus is the second planet from the Sun and Earth's closest planetary neighbor!"],
+            "img":"./imgs/Venusزهره.png",
+            "bgimg":"./imgs/bgVenusزهره.jpg",
+            "info":[
+                {
+                    "id":0,
+                    "text":["حجم كوكب الزهرة يعادل تقريباً حجم الأرض ، ولكن بخلاف ذلك فالكوكبان مختلفان جداً",
+                    "Venus is roughly the size of Earth, but other than that the two planets are very different."]
+                },
+                {
+                    "id":1,
+                    "text":["يظهر الزهرة كأكثر الكواكب تألقاً في السماء بسبب انعكاس الشمس عن سحبه وقربه من كوكب الأرض",
+                    "Venus appears as the brightest planet in the sky because of the sun's reflection from its clouds and proximity to the Earth."]
+                },
+                {
+                    "id":2,
+                    "text":["تغطي البراكين سطح كوكب الزهرة، ولا يملك أي قمر",
+                    "Venus is covered by volcanoes, and it does not have any moons."]
+                }
+            ]
+        },
+        {
+            "id":2,
+            "name":["الأرض","Earth"],
+            "describtion":["الأرض هي الكوكب الوحيد المعروف بدعم الحياة",
+                "Earth is the only planet known to support life!"],
+            "img":"./imgs/earth.png",
+            "bgimg":"./imgs/bgearth.jpg",
+            "info":[
+                {
+                    "id":0,
+                    "text":["الأرض هي الكوكب الوحيد الذي تدب عليه أشكال الحياة",
+                    "Earth is the only known planet that have any life forms of life."]
+                },
+                {
+                    "id":1,
+                    "text":["تغطي المياه 70% من سطح الأرض",
+                    "Seventy percent of Earth is covered with water."]
+                },
+                {
+                    "id":2,
+                    "text":["تتكون الأرض من الهواء والماء واليابسة",
+                    "Air, water and land make up the Earth."]
+                }
+            ]
+        },
+        {
+            "id":3,
+            "name":["المريخ","Mars"],
+            "describtion":["المريخ هو رابع كوكب من الشمس وثاني أصغر كوكب في المجموعة الشمسية",
+                "Mars is the fourth planet from the Sun and the second-smallest planet in the Solar System"],
+            "img":"./imgs/Marsمريخ.png",
+            "bgimg":"./imgs/bgmars.jpeg",
+            "info":[
+                {
+                    "id":0,
+                    "text":["الحرارة على المريخ مشابهة جداً لحرارة الأرض",
+                    "The temperature on Mars is very similar to the Earth."]
+                },
+                {
+                    "id":1,
+                    "text":["يعتقد العلماء بأن سطح المريخ كان يحتوي مياهاً على سطحه",
+                        "Scientists believe that Mars once had water on its surface."]
+                },
+                {
+                    "id":2,
+                    "text":["للمريخ قمران صغيران",
+                        "Mars has two small moons."]
+                }
+            ]
+        },
+        {
+            "id":4,
+            "name":["المشتري","Jupiter"],
+            "describtion":["كوكب المشتري ، إلى حد بعيد ، هو أكبر كوكب في النظام الشمسي - أكثر من ضعف كتلة جميع الكواكب الأخرى مجتمعة",
+                "Jupiter is, by far, the largest planet in the solar system – more than twice as massive as all the other planets combined"],
+            "img":"./imgs/jupiterMushtara.png",
+            "bgimg":"./imgs/bgjupiter.jpg",
+            "info":[
+                {
+                    "id":0,
+                    "text":[" يعرف المشتري ببقعته الحمراء العظيمة، وهي مجموعة من الأعاصير التي لا تزال تعصف منذ مئات السنين. هذه البقعة ضخمة لدرجة أنها توازي حجم الأرض",
+                        "Jupiter is known for its Great Red Spot, a group of hurricanes that have been storming for hundreds of years. This spot is so huge that it is equivalent to the size of the Earth!"]
+                },
+                {
+                    "id":1,
+                    "text":["يتكون المشتري من الغاز، فهو لا يملك سطحاً صلباً",
+                        "Jupiter is made of gas, it has no solid surface!"]
+                },
+                {
+                    "id":2,
+                    "text":["يملك كوكب المشتري أكثر من 50 قمراً، أربعة منها توازي الكواكب بالضخامة",
+                        "Jupiter has more than 50 moons, four of which are as massive as the planets."]
+                }
+            ]
+        },
+        {
+            "id":5,
+            "name":["زحل","Saturn"],
+            "describtion":["زحل هو سادس كوكب من الشمس وثاني أكبر كوكب في المجموعة الشمسية",
+                "Saturn is the sixth planet from the Sun and the second-largest in the Solar System!"],
+            "img":"./imgs/saturnzuhal.png",
+            "bgimg":"./imgs/bgsaturn.jpg",
+            "info":[
+                {
+                    "id":0,
+                    "text":["ليس كوكب زحل كروياً، فبسبب خفة وزنه وسرعة حركته نجده أوسع من المنتصف",
+                    "Saturn is not spherical, because of its light weight and speed of movement, we find it wider than the middle."]
+                },
+                {
+                    "id":1,
+                    "text":["يشتهر زحل بحلقاته الكبيرة والواضحة",
+                    "Saturn is most well-known for its highly visible rings."]
+                },
+                {
+                    "id":2,
+                    "text":["يتكون كوكب زحل بمعظمه من الهيدروجين والهيليوم",
+                        "Saturn is mostly made of hydrogen and helium."]
+                }
+            ]
+        },
+        {
+            "id":6,
+            "name":["أورانوس","Uranus"],
+            "describtion":["أورانوس هو الكوكب السابع من الشمس ، وثالث أكبر قطر في نظامنا الشمسي",
+                "Uranus is the seventh planet from the Sun, and has the third-largest diameter in our solar system!"],
+            "img":"./imgs/uranus.png",
+            "bgimg":"./imgs/bguranus-.jpg",
+            "info":[
+                {
+                    "id":0,
+                    "text":[".يتميز أورانوس عن غيره بدورانه الأفقي",
+                        "Uranus is unique that its rotation is horizontal."]
+                },
+                {
+                    "id":1,
+                    "text":["يعتقد بأن سطح أورانوس يتكون بالكامل من محيط كبير",
+                        "It is believed that the surface of Uranus is a huge ocean."]
+                },
+                {
+                    "id":2,
+                    "text":["يحتاج أورانوس 84 عاماً ليدور حول الشمس",
+                        "It takes Uranus 84 years to orbit the Sun!"]
+                }
+            ]
+        },
+        {
+            "id":7,
+            "name":["نبتون","Neptune"],
+            "describtion":["نبتون هو الكوكب الثامن والأبعد عن الشمس"
+                ,"Neptune is the eighth and farthest-known Solar planet from the Sun!"],
+            "img":"./imgs/neptun.png",
+            "bgimg":"./imgs/bgneptune.jpg",
+            "info":[
+                {
+                    "id":0,
+                    "text":["يعد نبتون أصغر الكواكب الخارجية، وهو عملاق غازي!",
+                        "Neptune is the smallest of the outer planets, and a gas giant!"]
+                },
+                {
+                    "id":1,
+                    "text":["يوجد حلقات حول نبتون، ولكن يعتقد بأنها حديثة نسبياً",
+                        "There are rings around Neptune, but they are believed to be relatively recent."]
+                },
+                {
+                    "id":2,
+                    "text":[".لنبتون 13 قمراً",
+                        "Neptune has 13 moons."]
+                }
+            ]
+        },
+        {
+            "id":8,
+            "name":["بلوتو","Pluto"],
+            "describtion":["بلوتو كوكب قزم يقع في حزام كويبر",
+                "Pluto is a dwarf planet that lies in the Kuiper Belt!"],
+            "img":"./imgs/pluto.png",
+            "bgimg":"./imgs/bgpluto.png",
+            "info":[
+                {
+                    "id":0,
+                    "text":["يُغطي غاز الهيدروجين مساحة كبيرة من سطح بلوتو",
+                        "Hydrogen gas covers a large area of ​​Pluto's surface"]
+                },
+                {
+                    "id":1,
+                    "text":["يحتوي بلوتو على قمم جبلية عالية يصل ارتفاع بعضها إلى 3500 متر",
+                        "Pluto contains high mountain peaks, some of which reach 3,500 meters in height."]
+                },
+                {
+                    "id":2,
+                    "text":["يتكون بلوتو بتركيبته الكيميائية من خليط من الصخور والجليد المائي، حيث يُشكل الأول 70 بالمئة من مكونات الكوكب، ويُشكل الجليد المائي النسبة المُتبقية",
+                        "Pluto consists in its chemical composition of a mixture of rocks and water ice, with the former making up 70 percent of the planet's components, and water ice making up the rest."]
+                }
+            ]
+        }
+
+    ]
+}
